@@ -56,6 +56,11 @@
 | 2022/08/21 | Google Cloud Certified - Professional Cloud Architect 更新 |
 | 2022/12/11 | Google Cloud Certified - Professional Cloud Security Engineer 合格 |
 | 2023/04/23 | Google Cloud Certified - Professional Cloud Developer 更新 |
+### Google for Education 認定資格
+
+| 取得日/更新日 | 資格名 |
+|---|---|
+| 2025/11/17 | Gemini Certified Educator |
 
 ### TOEIC L&R
 | 試験日 | Listening | Reading | Total |
