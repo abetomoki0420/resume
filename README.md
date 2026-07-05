@@ -26,6 +26,7 @@
 - 社内向け ChatGPT ラッパーを短期間で開発し、全社展開
 - 生成AIプロダクトを発案から企画・開発・リリースまで担当し公開
 - 生成AI活用の業務コンサル部門の立ち上げに初期メンバーとして参画
+- 生成AIを利用した業務改善、プリセールスとして顧客の課題発見 
 
 ## スキル・経験領域
 
@@ -34,15 +35,16 @@
 
 - **設計・推進**  
   技術選定、アプリケーションアーキテクチャ検討、開発プロセスの整備、リリース管理  
-  小〜中規模チームでの推進（全体6〜10名規模、FE 3名程度／年3本程度の案件リード経験）
+  テックリードとして小〜中規模チームでの推進（全体6〜10名規模、FE 3名程度／年3本程度の案件リード経験）
 
 - **Google Cloud / DevOps**  
   Google Cloud を用いた環境構築  
   CI/CD・自動化（Cloud Build、GitHub Actions）
   IaC（Terraform）
 
-- **生成AI関連**  
-  OpenAI API / Gemini API / LangChain、生成AIツール（Cursor / Devin 等）の活用
+- **AIエージェント関連**  
+  サポート窓口支援エージェントの設計・開発
+  OpenAI API / Google Cloud Agent Platform / Mastra / Langfuse / Dify
 
 ---
 
